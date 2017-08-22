@@ -1,1 +1,1 @@
-<a href="https://raw.githubusercontent.com/hartadi/TestClickOnce/master/setup.exe">Download File Setup</a>
+<a href="https://raw.githubusercontent.com/hartadi/TestClickOnce/master/deploy/setup.exe">Download File Setup</a>
