@@ -1,1 +1,1 @@
-"# TestClickOnce" 
+# TestClickOnce
